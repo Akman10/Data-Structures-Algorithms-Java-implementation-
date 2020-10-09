@@ -5,9 +5,9 @@
 import java.io.*;
 import java.util.*;
 
-class ST_min
+class ST_min_query_point_update
 {
-	public static void main(String[] args)throws Exception{ new ST_min().run();} 
+	public static void main(String[] args)throws Exception{ new ST_min_query_point_update().run();} 
 	long mod=1000000000+7;
 	
 	int N;
