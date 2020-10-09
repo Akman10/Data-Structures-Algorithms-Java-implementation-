@@ -21,9 +21,9 @@ for s=='U' update the array.
 import java.io.*;
 import java.util.*;
 
-class ST_max_query_point_update
+class ST_1_max_query_point_update
 {
-	public static void main(String[] args)throws Exception{ new ST_max_query_point_update().run();} 
+	public static void main(String[] args)throws Exception{ new ST_1_max_query_point_update().run();} 
 	long mod=1000000000+7;
 	
 	int N;
